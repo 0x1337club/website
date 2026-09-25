@@ -6,9 +6,15 @@ title: Events
 ---
 
 # Upcoming Events
-Stay tuned!
+- **_The Deccan CTF 2026_**
+   * Details - [CTF Page][10], [Register Here][11]
 
 # Past Events
+## 2025
+- **_The Deccan CTF (Feb 2025)_**
+   * Format - Onsite Overnight Jeopardy CTF at IIIT Hyderabad
+   * Resources - [Event Details](/deccanfeb2025)
+
 ## 2023
 So far in 2023 we've organized 5 events,
 
@@ -28,6 +34,8 @@ So far in 2023 we've organized 5 events,
    * Speakers - Kommireddy Bhargav S
    * Resources - [Presentation][9]
 
+[10]: /ctf
+[11]: https://felicity.iiit.ac.in/infinium/events/deccan-ctf
 [1]:{{ site.url }}/download/osint23.pptx
 [2]:{{ site.url }}/download/devtools23.pptx
 [3]:{{ site.url }}/download/sqli23.pptx
