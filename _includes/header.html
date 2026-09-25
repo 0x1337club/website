@@ -2,8 +2,16 @@
 
 <header>
   <div class="menu">
+    <div class="menu-top">
+      <span class="page_title">{% if page.layout == 'home' or page.url == '/' %}<img src="{{ '/assets/hacking.png' | relative_url }}" alt="0x1337 Logo" class="nav-logo">{% endif %}{{ page.title }}</span>
+      <button class="hamburger" aria-label="Toggle navigation" onclick="this.closest('.menu').classList.toggle('open')">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
     <ul>
-      <li class="page_title">{{ page.title }}</li>
+      <li class="page_title desktop_title">{% if page.layout == 'home' or page.url == '/' %}<img src="{{ '/assets/hacking.png' | relative_url }}" alt="0x1337 Logo" class="nav-logo">{% endif %}{{ page.title }}</li>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}

@@ -2,177 +2,100 @@
 layout: page
 permalink: /ctf
 permalink_name: /ctf
-title: TheDeccanCTF
+title: TheDeccanCTF 2026
 detail_image: ../assets/images/draft6.png
 ---
 
-<script>
-// Immediate redirect to the new CTF location
-window.location.replace("https://felicity.iiit.ac.in/deccanctf");
-</script>
+## INFINIUM ’26 / FLAGSHIP CYBERSECURITY — DECCAN CTF
 
-<noscript>
-<!-- Fallback for users with JavaScript disabled -->
-<meta http-equiv="refresh" content="0; url=https://felicity.iiit.ac.in/deccanctf">
-<p>Redirecting to <a href="https://felicity.iiit.ac.in/deccanctf">https://felicity.iiit.ac.in/deccanctf</a>...</p>
-</noscript>
+**INDIA’S FIRST COLLEGE-HOSTED CTF WITH Y COMBINATOR**
 
-## CTF Details
+Jeopardy-style CTF · Solo or teams of up to 5
 
-This is an ***<u>onsite</u>*** CTF in the heart of Hyderabad's tech centre Gachibowli!
+**₹2,00,000+ prize pool**
 
-TheDeccanCTF is the new flagship event of 0x1337 TheHackingClub!
+**TOP 3 WINNERS:** YC 1:1 + Crustdata internship opportunities
 
-# Registration link ? Read everything first, its below
+**OFFICIAL SPONSORS · DECCAN CTF:** [Y Combinator](https://www.ycombinator.com/) × [Crustdata](https://www.crustdata.com/)
 
-**Schedule:**
-- **1-3pm:** Talks and Demonstrations
-- **3pm-10:30am (Overnight):** CTF Competition
+**REGISTRATIONS OPEN**
 
-This is a Capture The Flag competition where you have to solve various cybersecurity-related challenges to earn points, the total of which determines your position on the leaderboard.
+# [Register Now (Felicity Infinium 2026) →](https://felicity.iiit.ac.in/infinium/events/deccan-ctf)
 
-**Competition Format:** Jeopardy
+See the benefits and event details before continuing.
 
-**Difficulty:** Easy-Medium (decent amount of hard questions are still included)
+## All Deccan CTF details & rules
 
-**Team Size:**
-- **Max:** 5
-- **Min:** 1
+**INDIA’S FIRST COLLEGE-HOSTED CTF WITH Y COMBINATOR**
 
-(2-3 is also probably good enough)
+Deccan CTF brings Y Combinator and Crustdata together for a flagship cybersecurity competition at IIIT Hyderabad.
 
-It is a completely offline event where everyone from IIIT and outside IIIT are also allowed to participate.
+**TOP 3 WINNERS:**
 
-**Prizes:**
+**CRUSTDATA INTERNSHIP OPPORTUNITIES**
+- The profiles of the top Deccan CTF winners will be forwarded to the Crustdata team for internship opportunities.
+- *Subject to Crustdata’s selection process and applicable role requirements.*
 
-**Open Category:**
-- **1st Team:** 4.5k Rs Card
-- **2nd Team:** 3k Rs Card
-- **Top 37 Teams:** One .xyz domain! (1 yr subscription)
+**YC 1:1 · JON XU**
+- The top 3 winners get the opportunity for a 1-on-1 call with Jon Xu, General Partner at Y Combinator.
+- [Meet Jon Xu ↗](https://www.ycombinator.com/people/jon-xu)
 
-**Beginner Category** (Teams with each member currently studying in Undergraduate year 1 or lesser) [Must be able to produce proof if non-IIIT student]:
-- **1st Team:** 1.5k Rs Card
-- **Top 13 Teams:** One .xyz domain! (1 yr subscription)
+**Jeopardy-style CTF**
 
-There is a chance that the prize pool will be increased in which case info will be updated here and everyone will be informed in the venue before CTF starts. 
+An offline, jeopardy-style Capture the Flag competition open to participants from IIIT and beyond. Tackle Web Exploitation, Cryptography, Forensics, OSINT and Reverse Engineering, with an intermediate focus and challenges ranging from easy to hard.
 
-Each team eligible for the beginner category will be given the choice to compete in the open category as well. Such teams can only participate in one category. Note that once the registration ends, changing category will not be possible.
+**Challenge Categories:**
+- Web Exploitation
+- Cryptography
+- Forensics
+- OSINT
+- Reverse Engineering
 
-**Additional Prizes:**
-There will be 3 explicitly marked challenges. For each such marked challenge, the first team to solve the challenge will get a 200 Rs Card.
+**Event Details:**
+- **Participation:** Solo or team of up to 5
+- **Organizer:** 0x1337 Hacking Club
+- **Duration:** 12 hours
+- **Venue:** H105
+- **Date & time:** 2 Oct 2026, 9:00 am – 2 Oct 2026, 9:00 pm IST
+- **Prize pool:** ₹2,00,000+ prize pool
+- **Registration:** Free · Existing Infinium account
 
-Note that prizes are partially/fully in the form of Amazon vouchers/gift cards.
+Every teammate needs an Infinium account and must accept their invitation. The captain is included in the 5-person limit. Your personal QR pass works for the gate and your registered events.
 
-# Venue: H-205, Himalaya block, IIIT-H, Gachibowli
-
-<h1>Rules</h1>
-- No bruteforcing/fuzzing any infra unless allowed explicitly.
-  **We have made all challenges such that these techniques will not be required, and if required we will explicitly inform you in the question itself and/or in the hall.**
-- **Document!** You are required to document any solutions and save code used to solve challenges. You must be able to give a basic explanation of how you solved any given challenge. This is compulsory and your prize may be revoked if you haven't done this.
-- No flag sharing/solution discussion of any kind is allowed before the CTF officially concludes.
-- Please adhere to all further guidelines provided at the venue hall as well.
-- The final decision regarding any cases of use of unfair practices/cheating lies with the organizers i.e., 0x1337 Hacking Club.
-
-<h1>Instructions and General Info</h1>
-- A password-encrypted archive will be uploaded and a link will be given here to the archive. This contains all the challenge files. You MUST download this and come to the venue.
-- Please ensure you have a decent mobile internet connection available (enough to download node modules etc later on). Airtel/Jio do work decently near the venue, 4G is reliable however 5G is intermittent.
-- Charging points are available.
-- Please ensure that your laptop can connect to WiFi, we might require you to only connect to the infra via our own WiFi network.
-- Download all tools etc beforehand.
-- Food will most likely not be provided, external stalls might be arranged and the college canteen is at least open till 11:30pm midnight. Please bring snacks etc if required. However, you must eat anything outside the venue, there are spaces available nearby.
-- No sleeping accommodation is there, you are meant to grind through the night after all ⚒️
+<h1>Full event format & rules</h1>
+- Participate solo or in a team of up to five.
+- Prizes cover at least the top ten teams, with separate awards for first solves on special problems.
+- Bring a laptop, internet access and a mobile phone with a camera; some challenges require the camera. At least 4G is available at the venue, and installing tools beforehand is recommended.
+- Do not brute-force or fuzz infrastructure unless a challenge or organizer explicitly permits it. Do not share flags or discuss solutions before the CTF concludes.
+- Document the basic logic of your solutions. Winners and the next three teams must submit documentation for every solved problem within 30 minutes of the CTF ending.
+- Follow all venue guidelines. The 0x1337 Hacking Club’s decisions on fair play and cheating are final.
 
 
-# Registrations are closed. The below timer is the time left for the event to start
+# Registrations are open! The below timer is the time left for the event to start
 
 <center>
  
  <br/>
-<div id="countdown-container" style="
-    display: inline-flex;
-    align-items: center;
-    background: linear-gradient(145deg, #6a11cb 0%, #2575fc 100%);
-    border-radius: 12px;
-    padding: 12px 20px;
-    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-    color: white;
-    font-family: 'Arial', sans-serif;
-">
-    <div style="
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    ">
-        <div style="
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-width: 50px;
-        ">
-            <div id="days" style="
-                font-size: 24px;
-                font-weight: bold;
-                line-height: 1.2;
-            ">00</div>
-            <div style="
-                font-size: 12px;
-                opacity: 0.7;
-                text-transform: uppercase;
-            ">Days</div>
+<div id="countdown-container">
+    <div class="countdown-inner">
+        <div class="countdown-box">
+            <div id="days" class="countdown-num">00</div>
+            <div class="countdown-lbl">Days</div>
         </div>
-        <div style="font-size: 24px; opacity: 0.7;">:</div>
-        <div style="
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-width: 50px;
-        ">
-            <div id="hours" style="
-                font-size: 24px;
-                font-weight: bold;
-                line-height: 1.2;
-            ">00</div>
-            <div style="
-                font-size: 12px;
-                opacity: 0.7;
-                text-transform: uppercase;
-            ">Hours</div>
+        <div class="countdown-colon">:</div>
+        <div class="countdown-box">
+            <div id="hours" class="countdown-num">00</div>
+            <div class="countdown-lbl">Hours</div>
         </div>
-        <div style="font-size: 24px; opacity: 0.7;">:</div>
-        <div style="
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-width: 50px;
-        ">
-            <div id="minutes" style="
-                font-size: 24px;
-                font-weight: bold;
-                line-height: 1.2;
-            ">00</div>
-            <div style="
-                font-size: 12px;
-                opacity: 0.7;
-                text-transform: uppercase;
-            ">Minutes</div>
+        <div class="countdown-colon">:</div>
+        <div class="countdown-box">
+            <div id="minutes" class="countdown-num">00</div>
+            <div class="countdown-lbl">Minutes</div>
         </div>
-        <div style="font-size: 24px; opacity: 0.7;">:</div>
-        <div style="
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-width: 50px;
-        ">
-            <div id="seconds" style="
-                font-size: 24px;
-                font-weight: bold;
-                line-height: 1.2;
-            ">00</div>
-            <div style="
-                font-size: 12px;
-                opacity: 0.7;
-                text-transform: uppercase;
-            ">Seconds</div>
+        <div class="countdown-colon">:</div>
+        <div class="countdown-box">
+            <div id="seconds" class="countdown-num">00</div>
+            <div class="countdown-lbl">Seconds</div>
         </div>
     </div>
 </div>
@@ -185,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const minutesEl = document.getElementById('minutes');
     const secondsEl = document.getElementById('seconds');
 
-    const targetDate = new Date('2025-02-08T13:00:00').getTime(); // Set your target date here
+    const targetDate = new Date('2026-10-02T09:00:00+05:30').getTime();
 
     function updateCountdown() {
         const now = new Date().getTime();
